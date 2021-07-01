@@ -1,6 +1,6 @@
 # react-notes-app 
 
-You can simply start typing in a note, and add it to the board! You can also delete, and it will all save to the local storage.
+You can simply start typing in a note, and add it to the board! It has a search feature that you filter notes. You can also delete individual notes, and it will all save to the local storage.
 
 - Demo: https://note-react-app.netlify.app/
 
